@@ -1,0 +1,23 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(./math1.jpg);
+    border: white;
+}
+.container{
+    text-align: center;
+    color: yellow;
+}
+#txt1{
+    font-family: 'Times New Roman', Times, serif;
+    font-stretch: expanded;
+    
+}
+#txt2{
+    font-family: 'Times New Roman', Times, serif;
+    font-stretch: expanded;
+}
+#txt3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: expanded;
+}
